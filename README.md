@@ -1,2 +1,2 @@
-# Bluetooth-Device-Profiless
-Utility to lookup bluetooth device service, company, characteristics and hopefully, defining devices in a json format.
+# Bluetooth-Device-Profiles
+Utility to look up Bluetooth device service, company, characteristics, and hopefully, defining devices in a JSON format.
